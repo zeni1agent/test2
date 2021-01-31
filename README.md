@@ -1,9 +1,8 @@
 # test2
 это просто тест
 
-+ffkmv
-  +cdkmkfd
-  +cmkxzc
-  -cnxzkc
-  *vncmvn
-    +cmxlzkcm
++cxjcbxjbc
+
+# test2
++nxklcns
+
