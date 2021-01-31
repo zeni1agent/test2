@@ -5,6 +5,6 @@
   - cjxkzch
 
 # test2
-1: nxklcns
-  2: cxjz
+(1) nxklcns
+  (2) cxjz
 
