@@ -1,8 +1,8 @@
 # test2
 это просто тест
 
-+cxjcbxjbc
++ cxjcbxjbc
 
 # test2
-+nxklcns
++ nxklcns
 
